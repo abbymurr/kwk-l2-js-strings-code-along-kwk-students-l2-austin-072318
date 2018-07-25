@@ -8,4 +8,4 @@ let excitedWelcomeMessage = welcomeMessage
   .toUpperCase()
   
 let shortGreeting = "Welcome, " + currentUser
-  .chorAt(0) + "!"
+  .charAt(0) + "!"
